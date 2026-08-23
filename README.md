@@ -46,6 +46,12 @@ cd ../client
 npm install
 npm run dev
 
+---
+
+## 📄 License & Intellectual Property Rights
+
+Copyright © 2026 **Saud Nadaf**. All rights reserved.
+
 ### **Enterprise Security Compliance & Usage Terms**
 - **Proprietary Software**: This software, architecture designs, and cryptographic implementations (`VAULTX`) are strictly proprietary and confidential.
 - **Authorization Required**: Unauthorized copying, modification, distribution, or commercial exploitation of this codebase, via any medium, is strictly prohibited without explicit written permission from the author.
