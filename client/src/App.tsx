@@ -21,7 +21,7 @@ export function App() {
   // 2FA States
   const [tempToken, setTempToken] = useState('');
   const [qrCodeUrl, setQrCodeUrl] = useState('');
-  const [manualSecret, setManualSecret] = useState('');
+  const [_manualSecret, setManualSecret] = useState('');
   const [totpCode, setTotpCode] = useState('');
   
   const [statusMessage, setStatusMessage] = useState('');
