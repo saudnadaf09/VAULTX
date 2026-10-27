@@ -30,7 +30,7 @@ VAULTX is built on a decoupled, secure-by-design architecture:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/saudnadaf09/VAULTX.git](https://github.com/saudnadaf09/VAULTX.git)
+git clone https://github.com/saudnadaf09/VAULTX.git
 cd VAULTX
 
 2. Setup Backend Server
