@@ -2,6 +2,8 @@
 
 > **VAULTX** is a high-security, Zero-Trust web application designed with an end-to-end encrypted vault infrastructure, strict Role-Based Access Control (RBAC), multi-factor authentication (2FA TOTP), and real-time active session revocation.
 
+Live Demo Link: https://vaultx-secure-rqbd.onrender.com/
+
 ---
 
 ## 🏗️ System Architecture
